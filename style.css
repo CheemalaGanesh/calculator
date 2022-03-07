@@ -1,0 +1,30 @@
+.spaces {
+    background-color: black;
+    padding: 15px;
+    width: 200px;
+    margin: auto;
+    height: auto;
+}
+body  {
+    background-color:cadetblue;
+    margin: 20px;
+}
+input[type=text] {
+width: 170px;
+padding: 10px;
+font-size: 22px;
+font-weight: bold;
+}
+input[type=button]{
+    width: 45px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#del{
+    width: 100%;
+}
+address{
+    padding: 100px;
+}
